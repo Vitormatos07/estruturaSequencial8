@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\bin\Debug\net7.0\uri1009.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\bin\Debug\net7.0\uri1009.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\bin\Debug\net7.0\uri1009.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\bin\Debug\net7.0\uri1009.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\bin\Debug\net7.0\uri1009.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\refint\uri1009.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\uri1009.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção3-EstruturaSequencial\uri1009\uri1009\obj\Debug\net7.0\ref\uri1009.dll
